@@ -8,8 +8,6 @@ Hosted by Primoris Academy - Westwood, NJ
 
 ![Primoris Academy Logo](https://github.com/thomaskcr/primoris-cs110/blob/development/assets/img/primoris_logo.jpg "Primoris Academy") 
 
-Spring 2015, Primoris Academy
-
 This course is designed to introduce students to the fundamentals of programming using the Python language. The theme for this course will be games but the ultimate goal is to teach students how to examine a problem from the point of view of a programmer and then give them the tools to solve it. Games provide a way for someone with just about any interest to find a problem that interests them and then explore it. 
     
 The course will start with learning how to set up a development environment, control flow statements in Python and using basic data structures. These principles will be applied to developing different types of games every week. We will cover card games, arcade games, board games and RPGs. Each week will introduce new programming challenges and provide a platform for students to explore topics they are interested in like developing intricately detailed gameplay or applying their love of math to creating more challenging computer players. 
