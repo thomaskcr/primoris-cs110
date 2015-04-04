@@ -1,6 +1,6 @@
 # Introduction to Python Programming with Games
 
-![Primoris Academy Logo](https://github.com/adam-p/markdown-here/raw/master/assets/img/primoris_logo.jpg "Primoris Academy") Spring 2015, Primoris Academy
+![Primoris Academy Logo](https://github.com/adam-p/markdown-here/raw/development/assets/img/primoris_logo.jpg "Primoris Academy") Spring 2015, Primoris Academy
 
 This course is designed to introduce students to the fundamentals of programming using the python language. The theme for this course will be games but the ultimate goal is to teach students how to examine a problem from the point of view of a programmer and then give them the tools to solve it. Games provide a way for someone with just about any interest to find a problem that interests them and then explore it. 
     
@@ -17,6 +17,8 @@ This is a tenative course calendar.
 
 The first week will cover everything needed to get started programming in python on Windows. We will start with learning how to install the python interpreter and use the python shell. Once we can execute python code, we will introduce the concept of version control and learn how to use GitHub. The class will end covering some basic features of the python langauge and we will write our first program. 
 
+#### Outline
+
 - Lectures
   - Getting Started: 
   - GitHub Basics: 
@@ -26,6 +28,23 @@ The first week will cover everything needed to get started programming in python
   - Hello World
 - Lab
   - Calculator **Due 4/25/2015**
+
+#### Additional Resources
+
+- [Download Python](https://www.python.org/downloads/) This is the site to get the python installer. We are using python 2.7 for this course, the current version is 2.7.9.
+- [Python For Beginners](https://www.python.org/about/gettingstarted/): This is a getting started guide from the official python website. 
+  - [Python for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers) One of the links on this page is a getting started page specifically put together for non-programmers. This is a collection of resources that can be used by a beginner to learn how to program. As you can see, there is no shortage of free resources online for learning how to program.
+- [Official Python Documentation](https://docs.python.org/2/) This is the python language documentation. The most relevant links on this page are the Tutorial, Library Reference and Language Reference
+  - [Python Tutorial](https://docs.python.org/2/tutorial/index.html) This is a tutorial introduces a subset of python's features to get a developer started using the language. It may go more or less in depth than this course depending on the topic. This course lines up approximately with chapters 1-7. 
+  - [Language Reference](https://docs.python.org/2/reference/index.html) Similar to the tutorial but much more complete and organized by topic instead of as an introduction to the language. 
+  - [Library Reference](https://docs.python.org/2/library/index.html) Find information about the modules/functions distributed with your python installation. This will probably be less useful for this class but is a good place to see what comes with the python language. 
+- [Installing Python on Windows](http://docs.python-guide.org/en/latest/starting/install/win/) Instructions to help walk through the installation of Python on Windows. 
+- [Installing Python on Mac OS X](http://docs.python-guide.org/en/latest/starting/install/osx/) For this course, we will assume students are working on Windows since it is the most common operating system but python can be run on just about any OS. These directions walk through the nuance of installing on a Mac. 
+- [Installing Python on Linux](http://docs.python-guide.org/en/latest/starting/install/linux/) Linux is a free and open-source operating system used often on servers and by developers. There are a lot of flavors of Linux, my personal favorite is Fedora for my development machines and CentOS (an enterprise-class relative of Fedora) for servers. If interested in Linux here are some resources to get started: 
+  - [Fedora Official Site](https://getfedora.org/) Fedora official site. Includes links to downloads and documentation with information on getting started and installation. Fedora offers LiveCDs that allow users to run Fedora without installing it to try it out. 
+  - [Ubuntu Official Site](http://www.ubuntu.com/) Ubuntu is a popular Linux flavor for beginners.
+  - [Ubuntu Community Installation Guide](https://help.ubuntu.com/community/Installation) Gives information on installing and getting started with Ubuntu.
+
 
 ## Week 2
 
