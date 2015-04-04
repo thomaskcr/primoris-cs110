@@ -1,6 +1,14 @@
-# Introduction to Python Programming with Games
+# Introduction to Python with Games
 
-![Primoris Academy Logo](https://github.com/thomaskcr/primoris-cs110/blob/development/assets/img/primoris_logo.jpg "Primoris Academy") Spring 2015, Primoris Academy
+**Spring 2015 Section**
+
+**Instructor**: Kyle Thomas - thomaskcr@gmail.com
+
+Hosted by Primoris Academy - Westwood, NJ
+
+![Primoris Academy Logo](https://github.com/thomaskcr/primoris-cs110/blob/development/assets/img/primoris_logo.jpg "Primoris Academy") 
+
+Spring 2015, Primoris Academy
 
 This course is designed to introduce students to the fundamentals of programming using the Python language. The theme for this course will be games but the ultimate goal is to teach students how to examine a problem from the point of view of a programmer and then give them the tools to solve it. Games provide a way for someone with just about any interest to find a problem that interests them and then explore it. 
     
