@@ -37,14 +37,12 @@ The first week will cover everything needed to get started programming in Python
 - Walkthroughs
   - Python Installation: A walkthrough of the process of installing Python on a Windows computer and using the interactive shell to execute expressions. 
   - Hello World: By tradition, the first program beginners execute in a new language prints the phrase "Hello, World!". In this walkthrough we will write the "Hello, World!" program after setting up a GitHub account and then add the program to our profile. 
-  - Math Game
 - Lab
   - Hello World
-  - Calculators **Due 4/25/2015**
+  - Calculators
   - Math Game
 
 #### Additional Resources
-
 
 
 ### Week 2
@@ -56,11 +54,12 @@ The first week will cover everything needed to get started programming in Python
   - Lists
   - Reading/Writing Files
 - Walkthroughs
-  - Quiz Game
+  - Printing with Loops: Walkthrough of printing different shapes to the command line using nested loops. 
+  - Writing to Files: We'll write code that writes every number you type to a file. 
+  - Reading Files: We'll write code that reads a list of numbers from a file into a list and prints it. 
 - Lab
   - Improving the Quiz Game
   - Guessing Game
-- Problem Set Assigned
 
 #### Additional Resources
 
@@ -72,10 +71,11 @@ The first week will cover everything needed to get started programming in Python
 - Lecture Topics
   - Pygame Basics
 - Walkthroughs
-  - 
-- Labs
+  - Drawing Shapes: We'll draw some shapes in Pygame. 
+  - Moving Shapes: We'll move our shapes around the screen.
+  - Finding the Mouse: Determine where a mouse click happened. 
+- Lab
   - Hangman
-  - Tic Tac Toe
 
 
 #### Additional Resources
@@ -87,15 +87,13 @@ The first week will cover everything needed to get started programming in Python
 
 - Lecture Topics
   - Sprites
-  - Functions
 - Walkthroughs
-  - 
+  - Controlling an Object with the Keyboard
+  - Collision Detection
 - Lab
   - Racing Game
 
-- Problem Set Due
 
-- Choose Project for Next Week
 
 #### Additional Resources
 
@@ -104,32 +102,30 @@ The first week will cover everything needed to get started programming in Python
 #### Outline
 
 - Lecture Topics
-  - Scoring
-  - Advanced Statistics
+  - Functions
+  - Dictionaries
+  - Card Games
 - Walkthroughs
-  - Blackjack
+  - Creating a Shuffle Deck Function
+  - Taking Cards from a Deck
 - Lab
   - Blackjack
-  
-- Meet on Project
+
 
 #### Additional Resources
-
 
 ### Week 6
 
 #### Outline
 
 - Lecture Topics
-  - Dictionaries
   - Reading and Writing JSON
-  - Physics
+  - Physics: Reflections
 - Walkthroughs
-  - Local Leaderboard
+  - Reflections: Bouncing lasers off a mirror. 
+  - Local Leaderboard: We'll create and display a high score list.
 - Lab
   - Pong
-
-- Project Plan Due
 
 #### Additional Resources
 
@@ -138,13 +134,12 @@ The first week will cover everything needed to get started programming in Python
 #### Outline
 
 - Lecture Topics
-  - Gravity
+  - Physics: Gravity
 - Walkthroughs
-  - Platformer
+  - Jumping: Make a character jump in the air. We'll explore the parameters associated with gravity that determine how high your character can jump. 
+  - Jumping Forward: We'll use momentum to allow our character to jump forward.
 - Lab
   - Platformer
-
-- Work on Project
 
 #### Additional Resources
 
@@ -153,26 +148,13 @@ The first week will cover everything needed to get started programming in Python
 
 #### Outline
 
-- Finish Project
+- Lab
+  - Space Invaders
+  
 
 #### Additional Resources
 
 
-## Project Ideas
-
-- Texas Hold'em
-- Board games
-  - Battleship
-  - Monopoly
-  - Othello
-  - Checkers
-  - Chess
-  - Connect Four
-- Physics Heavy
-  - Air Hockey
-  - Angry Birds type game
-- Platformer
-- RPG
 
 ## General Resources
 
