@@ -12,7 +12,7 @@ This course is designed to introduce students to the fundamentals of programming
     
 The course will start with learning how to set up a development environment, control flow statements in Python and using basic data structures. These principles will be applied to developing different types of games every week. We will cover as many types of games as possible including card games, arcade games, board games and RPGs. Each week will introduce new programming challenges and provide a platform for students to explore topics they are interested in. 
 
-The course structure will consist of a weekly lecture based on the notes packet distributed with this course that will introduce the new topics for the week. Students will have a lab designed to be done in class with guidance from the instructor and then a take home problem set. All mini-projects will have suggestions for further development to help guide students who are interested in exploring the problem further. Students will also complete a long term project that they can either choose themselves or from a set of preselected ideas. The arc for this project will allow them to work with the instructor to break down their problem, plan how they will complete their project and then complete their project according to their plan. 
+The course structure will consist of a weekly lecture based on the notes packet distributed with this course that will introduce the new topics for the week. Students will have a weekly lab to complete that will be started in class and due the next week. 
 
 
 ## Course Calendar
@@ -148,6 +148,7 @@ The first week will cover everything needed to get started programming in Python
 
 #### Outline
 
+- Review
 - Lab
   - Space Invaders
   
