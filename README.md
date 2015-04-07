@@ -46,6 +46,7 @@ The first week will cover everything needed to get started programming in Python
 #### Additional Resources
 
 - [Wing IDE Tutorial](https://wingware.com/doc/intro/tutorial) This site can give more information about the features of Wing IDE including many that we won't have a chance to use in this class.
+- [Git Community Book](http://git-scm.com/book/en/v2) If you really want to learn git in depth, this book goes through all of the details. 
 
 ### Week 2
 
