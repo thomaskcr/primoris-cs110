@@ -184,7 +184,7 @@ The same program with the same error is shown being run in Wing IDE in the figur
 For now, just install the Wing editor. We will actually use it during the walkthrough associated with this lesson. 
 
 
-.. `StackExchange`: http://programmers.stackexchange.com/
+.. _`StackExchange`: http://programmers.stackexchange.com/
 .. _`Python Downloads`: https://www.python.org/downloads/
 .. _`Pygame Installer`: http://programarcadegames.com/pygame-1.9.2a0.win32-py3.4.msi
 .. _`Pygame Downloads`: http://www.pygame.org/download.shtml
