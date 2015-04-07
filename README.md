@@ -17,7 +17,7 @@ The course structure will consist of a weekly lecture based on the notes packet 
 
 ## Course Calendar
 
-This is a tentative course calendar. 
+This is a tentative course calendar. If you have any games, on this calendar or not, that you are excited about building let me know and I'll make sure that they are prioritized or create a lab based on your request. 
 
 ### Week 1
 
@@ -27,7 +27,8 @@ The first week will cover everything needed to get started programming in Python
 
 - Lecture Topics
   - [Getting Started](docs/lecture_notes/introduction/introduction.rst): Quick introduction to programming and python with information on installing the tools we'll need for this course.
-  - GitHub Basics: You will use GitHub to turn your assignments into me. 
+  - [Saved Programs](docs/lecture_notes/saved_programs/saved_programs.rst): We'll go through saving your Python programs to files and running them. 
+  - [GitHub Basics](docs/lecture_notes/github/github.rst): You will use GitHub to turn your assignments into me. 
   - Python Language Basics: 
     - Types, Operators and Variables
     - Input and Output
@@ -44,6 +45,7 @@ The first week will cover everything needed to get started programming in Python
 
 #### Additional Resources
 
+- [Wing IDE Tutorial](https://wingware.com/doc/intro/tutorial) This site can give more information about the features of Wing IDE including many that we won't have a chance to use in this class.
 
 ### Week 2
 
