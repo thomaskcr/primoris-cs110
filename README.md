@@ -10,8 +10,8 @@ Hosted by Primoris Academy - Westwood, NJ
 
 This course is designed to introduce students to the fundamentals of programming using the Python language. The theme for this course will be games but the ultimate goal is to teach students how to examine a problem from the point of view of a programmer and then give them the tools to solve it. Games provide a way for someone with just about any interest to find a problem that interests them and then explore it. 
     
-The course will start with learning how to set up a development environment, control flow statements in Python and using basic data structures. These principles will be applied to developing different types of games every week. We will cover card games, arcade games, board games and RPGs. Each week will introduce new programming challenges and provide a platform for students to explore topics they are interested in like developing intricately detailed gameplay or applying their love of math to creating more challenging computer players. 
-    
+The course will start with learning how to set up a development environment, control flow statements in Python and using basic data structures. These principles will be applied to developing different types of games every week. We will cover as many types of games as possible including card games, arcade games, board games and RPGs. Each week will introduce new programming challenges and provide a platform for students to explore topics they are interested in. 
+
 The course structure will consist of a weekly lecture based on the notes packet distributed with this course that will introduce the new topics for the week. Students will have a lab designed to be done in class with guidance from the instructor and then a take home problem set. All mini-projects will have suggestions for further development to help guide students who are interested in exploring the problem further. Students will also complete a long term project that they can either choose themselves or from a set of preselected ideas. The arc for this project will allow them to work with the instructor to break down their problem, plan how they will complete their project and then complete their project according to their plan. 
 
 
@@ -26,16 +26,155 @@ The first week will cover everything needed to get started programming in Python
 #### Outline
 
 - Lecture Topics
-  - Getting Started: 
-  - GitHub Basics: 
+  - [Getting Started](docs/lecture_notes/introduction/introduction.rst): Quick introduction to programming and python with information on installing the tools we'll need for this course.
+  - GitHub Basics: You will use GitHub to turn your assignments into me. 
   - Python Language Basics: 
+    - Types, Operators and Variables
+    - Input and Output
+    - String Operations
+  - Conditionals
+  - Random Numbers
 - Walkthroughs
   - Python Installation: A walkthrough of the process of installing Python on a Windows computer and using the interactive shell to execute expressions. 
   - Hello World: By tradition, the first program beginners execute in a new language prints the phrase "Hello, World!". In this walkthrough we will write the "Hello, World!" program after setting up a GitHub account and then add the program to our profile. 
+  - Math Game
 - Lab
-  - Calculator **Due 4/25/2015**
+  - Hello World
+  - Calculators **Due 4/25/2015**
+  - Math Game
 
 #### Additional Resources
+
+
+
+### Week 2
+
+#### Outline
+
+- Lecture Topics
+  - Loops
+  - Lists
+  - Reading/Writing Files
+- Walkthroughs
+  - Quiz Game
+- Lab
+  - Improving the Quiz Game
+  - Guessing Game
+- Problem Set Assigned
+
+#### Additional Resources
+
+
+### Week 3
+
+#### Outline
+
+- Lecture Topics
+  - Pygame Basics
+- Walkthroughs
+  - 
+- Labs
+  - Hangman
+  - Tic Tac Toe
+
+
+#### Additional Resources
+
+
+### Week 4
+
+#### Outline
+
+- Lecture Topics
+  - Sprites
+  - Functions
+- Walkthroughs
+  - 
+- Lab
+  - Racing Game
+
+- Problem Set Due
+
+- Choose Project for Next Week
+
+#### Additional Resources
+
+### Week 5
+
+#### Outline
+
+- Lecture Topics
+  - Scoring
+  - Advanced Statistics
+- Walkthroughs
+  - Blackjack
+- Lab
+  - Blackjack
+  
+- Meet on Project
+
+#### Additional Resources
+
+
+### Week 6
+
+#### Outline
+
+- Lecture Topics
+  - Dictionaries
+  - Reading and Writing JSON
+  - Physics
+- Walkthroughs
+  - Local Leaderboard
+- Lab
+  - Pong
+
+- Project Plan Due
+
+#### Additional Resources
+
+### Week 7
+
+#### Outline
+
+- Lecture Topics
+  - Gravity
+- Walkthroughs
+  - Platformer
+- Lab
+  - Platformer
+
+- Work on Project
+
+#### Additional Resources
+
+
+### Week 8
+
+#### Outline
+
+- Finish Project
+
+#### Additional Resources
+
+
+## Project Ideas
+
+- Texas Hold'em
+- Board games
+  - Battleship
+  - Monopoly
+  - Othello
+  - Checkers
+  - Chess
+  - Connect Four
+- Physics Heavy
+  - Air Hockey
+  - Angry Birds type game
+- Platformer
+- RPG
+
+## General Resources
 
 - [Download Python](https://www.python.org/downloads/) This is the site to get the Python installer. We are using Python 3.4 for this course, the current version is 3.4.3.
 - [Python For Beginners](https://www.python.org/about/gettingstarted/): This is a getting started guide from the official python website. 
@@ -50,20 +189,3 @@ The first week will cover everything needed to get started programming in Python
   - [Fedora Official Site](https://getfedora.org/) Fedora official site. Includes links to downloads and documentation with information on getting started and installation. Fedora offers LiveCDs that allow users to run Fedora without installing it to try it out. 
   - [Ubuntu Official Site](http://www.ubuntu.com/) Ubuntu is a popular Linux flavor for beginners.
   - [Ubuntu Community Installation Guide](https://help.ubuntu.com/community/Installation) Gives information on installing and getting started with Ubuntu.
-
-
-## Week 2
-
-
-
-- Lectures
-  - Conditionals
-
-
-
-
-## Materials
-
-
-## Other Resources
-

@@ -15,38 +15,20 @@ Just about anything you can solve using code can be done by hand or using other 
 
 Games are the theme of this class and many of the games we'll create we've already played without a computer. While games like tic-tac-toe and battleship work just as well without a computer, there are many games that would be significantly less fun without a computer. 
 
-Multiplication Tables and Extra Credit
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Getting Help
+~~~~~~~~~~~~
 
-Lets look at how programming could offer a better solution to a real life problem. Imagine a situation where your teacher creates an assignment to write out the times table for 9. Your teacher says that for every entry past 9 x 9, you will get one point of extra credit. She even says that you don't need to write the entries yourself. 
+There are tons of programming resources online. For most errors, chances are if you Google your error and the language or library you're working in the first result will be an answer. 
 
-The most obvious solution is to go home and just start writing. :code:`9 x 1 = 9`, :code:`9 x 2 = 18`, and you continue writing. You figure out that you can write about one entry every 3 seconds by just adding 9 to the last number. Every minute you earn 20 points of extra credit, pretty good! After a few minutes your hand begins to cramp up though, so you decide to stop after 8 minutes. You feel that 160 points of extra credit is more than enough. The next day you hand in your assignment.
+Programming is not about memorization, you don't need to remember every function you use. The better you are at finding answers to your questions quickly, the better you will be at programming. 
 
-A few days later your assignment comes back and you only earned 10 extra points! You look as see that on the 20th entry you accidentally added 8 instead of 9 and all of your entries past there are wrong. 
+There are also places that you can post questions that you were unable to find answers to online. One of these is `StackExchange`_. 
 
-Let's stop and look at this problem and some of it's solutions: 
-
-- We could have solved it by typing every entry into a calculator to ensure that no mistakes were made, but that takes about 10 second per entry. That means that after 8 minutes we'd only earn 48 points instead of 160. 
-- Another solution is to type every 10th entry into the calculator. In this situation the worst case scenario is only 10 mistakes that need to be corrected and we can still earn about 133 extra points in the same time if we don't make any mistakes. 
-
-What are my main problems here? 
-
-- I am slowed down by how fast I can do math and write.
-- I make mistakes. 
-
-As we read above, computers are actually very fast at doing math. Additionally, computers always do exactly what they are told. The computer will always return the right answer to a math problem when asked. 
-
-If we use programming to solve this problem, we could write code to print out the multiplication tables as high as we want. We can output these to a file and then print that file to hand into the teacher. We've now eliminated the problem of mistakes and are only limited by how many pages we can print. The average lines per page is about 40 when printing, so if you have 100 sheets of paper you could earn 4000 points of extra credit and go play video games while it prints. 
 
 General Solutions
 ~~~~~~~~~~~~~~~~~
 
-In our above example, we solved a very specific problem: printing the times table for the number 9. A program that only solves one problem is only useful one time. For those that took the Scratch class, just like the example we learned to solve very specific problems. For example, "write a program that allows you to navigate this maze". 
-
-In this course, we're going to expand on that ability. We'll learn how to solve general problems. Instead of writing a program to print out the 9 times table, we'll write a program to print out **any** times table. Instead of writing a program to play a specific maze, we'll write a program that allows you to play **any** maze. 
-
-We'll be writing programs that answer many similar questions instead of one specific question.
-
+In this course we're going to learn how to solve general problems. It's not very useful to have a program that only solves one math problem, for example converting 40 degrees Fahrenheit to Celsius. Instead, we will write programs that solve many similar problems. For the temperature conversion example we would write a program that converts any temperature from Fahrenheit to Celsius. 
 
 Thinking Like a Programmer
 --------------------------
@@ -120,12 +102,7 @@ There are a few instructions that appear in most languages
 - **Conditionals** These are decisions where a piece of code is only executed if the statement is true. 
 - **Repetition** Allow you to do something multiple times. For example, if you need to print the numbers 1 through 10, instead of writing 10 print statements you can loop through the numbers. 
 
-Sorting Cards Example
-~~~~~~~~~~~~~~~~~~~~~
-
-
-
-
+We'll be learning how to do all of these things in Python in the following chapters.
 
 Python
 ------
@@ -161,6 +138,13 @@ The interactive shell allows you to execute lines of Python code. Below you can 
 
 .. image:: interactive-commands.png
     :align: center
+
+
+Installing Pygame
+-----------------
+
+Most people will be using windows computers and should use this link to the `Pygame Installer`_ to download pygame. This is meant for Python version 3.4. If you are using another version you will want to go to the `Pygame Downloads`_ page and download the appropriate version. 
+
 
 Installing an IDE
 -----------------
@@ -200,6 +184,9 @@ The same program with the same error is shown being run in Wing IDE in the figur
 For now, just install the Wing editor. We will actually use it during the walkthrough associated with this lesson. 
 
 
+.. `StackExchange`: http://programmers.stackexchange.com/
 .. _`Python Downloads`: https://www.python.org/downloads/
+.. _`Pygame Installer`: http://programarcadegames.com/pygame-1.9.2a0.win32-py3.4.msi
+.. _`Pygame Downloads`: http://www.pygame.org/download.shtml
 .. _`Arcade Games with Python`: http://programarcadegames.com/index.php?showpart=0#section_0.3
 .. _`Wing IDE 101`: http://wingware.com/downloads/wingide-101/
