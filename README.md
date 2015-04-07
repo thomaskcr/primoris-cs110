@@ -119,7 +119,6 @@ The first week will cover everything needed to get started programming in Python
 #### Outline
 
 - Lecture Topics
-  - Reading and Writing JSON
   - Physics: Reflections
 - Walkthroughs
   - Reflections: Bouncing lasers off a mirror. 
