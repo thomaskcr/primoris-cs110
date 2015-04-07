@@ -17,11 +17,11 @@ The course structure will consist of a weekly lecture based on the notes packet 
 
 ## Course Calendar
 
-This is a tenative course calendar. 
+This is a tentative course calendar. 
 
 ### Week 1
 
-The first week will cover everything needed to get started programming in Python on Windows. We will start with learning how to install the Python interpreter and use the Python shell. Once we can execute Python code, we will introduce the concept of version control and learn how to use GitHub. The class will end covering some basic features of the Python langauge and we will write our first program. 
+The first week will cover everything needed to get started programming in Python on Windows. We will start with learning how to install the Python interpreter and use the Python shell. Once we can execute Python code, we will introduce the concept of version control and learn how to use GitHub. The class will end covering some basic features of the Python language and we will write our first program. 
 
 #### Outline
 
