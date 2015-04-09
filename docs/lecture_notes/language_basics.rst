@@ -204,10 +204,10 @@ This example also shows how comments can tell you what is happening in your prog
 
 ::
     
-    "Hello, I am very good at adding numbers."
-    "Type your first number"
+    Hello, I am very good at adding numbers.
+    Type your first number
     4
-    "Type your second number"
+    Type your second number
     6
     The result is: 10
 
