@@ -2,7 +2,7 @@
 Python Language Basics
 ======================
 
-We now know how to execute our programs but before we can start creating games we'll need to learn the basics of Python. The concepts are the same in most programming langauges, you'll see that a lot of the things you learned in Scratch are very similar in Python. If you didn't learn scratch don't worry, these notes will cover all of the concepts you need to know for this course. 
+We now know how to execute our programs but before we can start creating games we'll need to learn the basics of Python. The concepts are the same in most programming languages, you'll see that a lot of the things you learned in Scratch are very similar in Python. If you didn't learn scratch don't worry, these notes will cover all of the concepts you need to know for this course. 
 
 Comments
 --------
@@ -21,7 +21,7 @@ You can use comments to prevent a line of code from executing. This is a commonl
     # This program doesn't do anything
     # print("Hello, World!")
 
-In this example, the :code:`print` statement comes after a :code:`#` which tells the interpeter to ignore that line. 
+In this example, the :code:`print` statement comes after a :code:`#` which tells the interpreter to ignore that line. 
 
 Variables
 ---------
@@ -141,7 +141,7 @@ Type Conversion
 
 Sometimes we want to combine two different types, we can do this using type conversion. We'll look at two type conversions. Converting something to a string and converting to an integer. 
 
-To convert something to a string we use the :code:`str` **function**. We'll learn more about functions later, but we've actually already encounted one. :code:`print` is a function that takes an **argument** and prints it to the output. Here, :code:`str` takes an argument and returns a string. 
+To convert something to a string we use the :code:`str` **function**. We'll learn more about functions later, but we've actually already encountered one. :code:`print` is a function that takes an **argument** and prints it to the output. Here, :code:`str` takes an argument and returns a string. 
 
 An example of when we will use this is combining an integer with a string. 
 
@@ -195,7 +195,7 @@ Sometimes we want users to type in numbers so we can do something with them. In 
     first_number = int(first_number)
     second_number = int(second_number)
     
-    # Add the numbrs and print the result
+    # Add the numbers and print the result
     # Don't forget to convert result to a string!
     result = first_number + second_number
     print("The result is: " + str(result))

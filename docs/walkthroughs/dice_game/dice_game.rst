@@ -27,7 +27,7 @@ Roll Dice
 
 The first block on my flowchart is the dice roll. I need to simulate the roll of a 6 sided dice so I am going to generate a number between 1 and 6. I'll need my random library and I am going to use :code:`randrange` for this since I want an integer. 
 
-I don't want the number zero included, so I know my lower bound will be 1. I want the number 6 included but remember that the :code:`randrange` function goes up to but not inluding the second number. This means my second number will need to be 7. 
+I don't want the number zero included, so I know my lower bound will be 1. I want the number 6 included but remember that the :code:`randrange` function goes up to but not including the second number. This means my second number will need to be 7. 
 
 ::
     
