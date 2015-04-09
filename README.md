@@ -30,14 +30,14 @@ The first week will cover everything needed to get started programming in Python
   - [Saved Programs](docs/lecture_notes/saved_programs/saved_programs.rst): We'll go through saving your Python programs to files and running them. 
   - [GitHub Basics](docs/lecture_notes/github/github.rst): You will use GitHub to turn your assignments into me. 
   - [Python Language Basics](docs/lecture_notes/language_basics.rst): In this set of notes we'll cover variables, types, operators and getting user input.
-  - Conditionals
-  - Random Numbers
+  - [Conditionals](docs/lecture_notes/conditionals/conditionals.rst): In these notes we'll cover the if statement. 
+  - [Random Numbers](docs/lecture_notes/random_numbers.rst): These notes cover generating and using random numbers. 
 - Walkthroughs
   - Python Installation: A walkthrough of the process of installing Python on a Windows computer and using the interactive shell to execute expressions. 
   - Hello World: By tradition, the first program beginners execute in a new language prints the phrase "Hello, World!". In this walkthrough we will write the "Hello, World!" program after setting up a GitHub account and then add the program to our profile. 
     - [YouTube Video](http://youtu.be/Mw28iQS982s)
     - [GitHub Repo for Hello World](https://github.com/thomaskcr/python-hello-world)
-  - Dice Game: 
+  - [Dice Game](docs/walkthroughs/dice_game/dice_game.rst): We'll create a dice game. 
 - Lab
   - Hello World
   - Calculators
@@ -117,7 +117,7 @@ The first week will cover everything needed to get started programming in Python
 #### Outline
 
 - Lecture Topics
-  - Functions
+  - Writing Functions
   - Dictionaries
   - Card Games
 - Walkthroughs
