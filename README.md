@@ -29,15 +29,13 @@ The first week will cover everything needed to get started programming in Python
   - [Getting Started](docs/lecture_notes/introduction/introduction.rst): Quick introduction to programming and python with information on installing the tools we'll need for this course.
   - [Saved Programs](docs/lecture_notes/saved_programs/saved_programs.rst): We'll go through saving your Python programs to files and running them. 
   - [GitHub Basics](docs/lecture_notes/github/github.rst): You will use GitHub to turn your assignments into me. 
-  - Python Language Basics: 
-    - Types, Operators and Variables
-    - Input and Output
-    - String Operations
+  - [Python Language Basics](docs/lecture_notes/language_basics.rst): In this set of notes we'll cover variables, types, operators and getting user input.
   - Conditionals
   - Random Numbers
 - Walkthroughs
   - Python Installation: A walkthrough of the process of installing Python on a Windows computer and using the interactive shell to execute expressions. 
   - Hello World: By tradition, the first program beginners execute in a new language prints the phrase "Hello, World!". In this walkthrough we will write the "Hello, World!" program after setting up a GitHub account and then add the program to our profile. 
+  - Dice Game: 
 - Lab
   - Hello World
   - Calculators
@@ -47,6 +45,18 @@ The first week will cover everything needed to get started programming in Python
 
 - [Wing IDE Tutorial](https://wingware.com/doc/intro/tutorial) This site can give more information about the features of Wing IDE including many that we won't have a chance to use in this class.
 - [Git Community Book](http://git-scm.com/book/en/v2) If you really want to learn git in depth, this book goes through all of the details. 
+- [Invent With Python: Writing Programs](http://inventwithpython.com/chapter3.html) Topics covered: 
+  - Flow of execution
+  - Strings
+  - String concatenation
+  - Data types (such as strings or integers)
+  - Using the file editor to write progams
+  - Saving and running programs in IDLE
+  - The print() function
+  - The input() function
+  - Comments
+  - Case-sensitivity
+
 
 ### Week 2
 
