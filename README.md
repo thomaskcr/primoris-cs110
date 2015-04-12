@@ -33,7 +33,11 @@ The first week will cover everything needed to get started programming in Python
   - [Conditionals](docs/lecture_notes/conditionals/conditionals.rst): In these notes we'll cover the if statement. 
   - [Random Numbers](docs/lecture_notes/random_numbers.rst): These notes cover generating and using random numbers. 
 - Walkthroughs
-  - Python Installation: A walkthrough of the process of installing Python on a Windows computer and using the interactive shell to execute expressions. 
+  - [Python Installation Video](#): A walkthrough of the process of installing Python on a Windows computer and using the interactive shell to execute expressions. Below are the four things you'll need to install for this class. 
+    - [Download Python](https://www.python.org/downloads/) This is the site to get the Python installer. We are using Python 3.4 for this course, the current version is 3.4.3.
+    - [Download Wing IDE 101](https://wingware.com/downloads/wingide-101) This is the IDE (where you write and run your programs) we'll be using for this class.
+    - [Pygame Installer](http://programarcadegames.com/pygame-1.9.2a0.win32-py3.4.msi) We won't be using this the first couple weeks but it doesn't hurt to have it ready to go. 
+    - [GitHub for Windows Download](https://windows.github.com/) You'll need this to submit your assignments.
   - Hello World: By tradition, the first program beginners execute in a new language prints the phrase "Hello, World!". In this walkthrough we will write the "Hello, World!" program after setting up a GitHub account and then add the program to our profile. 
     - [YouTube Video](http://youtu.be/Mw28iQS982s)
     - [GitHub Repo for Hello World](https://github.com/thomaskcr/python-hello-world)
@@ -65,7 +69,7 @@ The first week will cover everything needed to get started programming in Python
   - Writing to Files: We'll write code that writes every number you type to a file. 
   - Reading Files: We'll write code that reads a list of numbers from a file into a list and prints it. 
 - Lab
-  - Improving the Quiz Game
+  - Quiz Game
   - Guessing Game
 
 #### Additional Resources
