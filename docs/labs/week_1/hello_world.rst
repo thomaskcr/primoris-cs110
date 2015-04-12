@@ -57,7 +57,7 @@ If done correctly, your GitHub application screen should look like the following
 Write Hello World
 -----------------
 
-Just like we did during the walkthrough, write a script that writes "Hello, World!". Remember, you will need to use the `print()` function to do this. 
+Just like we did during the walkthrough, write a script that writes "Hello, World!". Remember, you will need to use the :code:`print()` function to do this. 
 
 Save your application to the GitHub repository that you just cloned. 
 
@@ -110,9 +110,9 @@ Once you've edited your file, commit your changes and push it to the GitHub serv
 Rubric
 ------
 
-- **[10 Points]** Student has a GitHub repository under their username named `cs110-hello-world
-- **[20 Points]** Student has a `hello_world.py` script in their repository that prints "Hello, World!" when run. 
-- **[15 Points]** Student has a properly formated `README.md` file in their repository
-- **[15 Points]** Student has 3 commits in their repository (the initial commit, the hello world file commit and the README update commit)
+- **[5 Points]** Student has a GitHub repository under their username named :code:`cs110-hello-world`
+- **[20 Points]** Student has a :code:`hello_world.py` script in their repository that prints "Hello, World!" when run. 
+- **[15 Points]** Student has a properly formated :code:`README.md` file in their repository
+- **[10 Points]** Student has 3 commits in their repository (the initial commit, the hello world file commit and the README update commit)
   - The initial commit will be made automatically
   - Make sure your commit messages for the other two are good, you will also be graded on whether your commit messages reflect what you did in that commit. 
