@@ -33,7 +33,7 @@ The first week will cover everything needed to get started programming in Python
   - [Conditionals](docs/lecture_notes/conditionals/conditionals.rst): In these notes we'll cover the if statement. 
   - [Random Numbers](docs/lecture_notes/random_numbers.rst): These notes cover generating and using random numbers. 
 - Walkthroughs
-  - [Python Installation Video](#): A walkthrough of the process of installing Python on a Windows computer and using the interactive shell to execute expressions. Below are the four things you'll need to install for this class. 
+  - [Python Installation Video](http://youtu.be/e3KC07KVRAE): A walkthrough of the process of installing Python on a Windows computer and using the interactive shell to execute expressions. Below are the four things you'll need to install for this class. 
     - [Download Python](https://www.python.org/downloads/) This is the site to get the Python installer. We are using Python 3.4 for this course, the current version is 3.4.3.
     - [Download Wing IDE 101](https://wingware.com/downloads/wingide-101) This is the IDE (where you write and run your programs) we'll be using for this class.
     - [Pygame Installer](http://programarcadegames.com/pygame-1.9.2a0.win32-py3.4.msi) We won't be using this the first couple weeks but it doesn't hurt to have it ready to go. 
@@ -42,6 +42,8 @@ The first week will cover everything needed to get started programming in Python
     - [YouTube Video](http://youtu.be/Mw28iQS982s)
     - [GitHub Repo for Hello World](https://github.com/thomaskcr/python-hello-world)
   - [Dice Game](docs/walkthroughs/dice_game/dice_game.rst): We'll create a dice game. 
+    - [YouTube Video](http://youtu.be/OgX6GJMW7XM) The Chrome screen seems to be capturing wrong. Luckily I don't spend much time there in the video. The page I have opened is the Dice Game link above. I ended up adding an extra feature in the video.
+    - [GitHub Repo for Dice Game](https://github.com/thomaskcr/python-dice-game)
 - Lab
   - [Hello World](docs/labs/week_1/hello_world.rst) **[50 Points]**
   - [Penny Drop Calculator](docs/labs/week_1/penny_drop_calculator.rst) **[50 Points]**
