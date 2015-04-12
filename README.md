@@ -21,7 +21,7 @@ This is a tentative course calendar. If you have any games, on this calendar or 
 
 ### Week 1
 
-The first week will cover everything needed to get started programming in Python on Windows. We will start with learning how to install the Python interpreter and use the Python shell. Once we can execute Python code, we will introduce the concept of version control and learn how to use GitHub. The class will end covering some basic features of the Python language and we will write our first program. 
+The first week will cover everything needed to get started programming in Python on Windows. We will start with learning how to install the Python interpreter and use the Python shell. Once we can execute Python code, we will introduce the concept of version control and learn how to use GitHub. The class will end covering some basic features of the Python language and we will write our first programs. 
 
 #### Outline
 
@@ -39,25 +39,17 @@ The first week will cover everything needed to get started programming in Python
     - [GitHub Repo for Hello World](https://github.com/thomaskcr/python-hello-world)
   - [Dice Game](docs/walkthroughs/dice_game/dice_game.rst): We'll create a dice game. 
 - Lab
-  - Hello World
-  - Calculators
-  - Math Game
+  - [Hello World](docs/labs/week_1/hello_world.rst) **[50 Points]**
+  - Calculator **[50 Points]**
+  - Math Game **[100 Points]**
 
 #### Additional Resources
 
 - [Wing IDE Tutorial](https://wingware.com/doc/intro/tutorial) This site can give more information about the features of Wing IDE including many that we won't have a chance to use in this class.
 - [Git Community Book](http://git-scm.com/book/en/v2) If you really want to learn git in depth, this book goes through all of the details. 
-- [Invent With Python: Writing Programs](http://inventwithpython.com/chapter3.html) Topics covered: 
-  - Flow of execution
-  - Strings
-  - String concatenation
-  - Data types (such as strings or integers)
-  - Using the file editor to write progams
-  - Saving and running programs in IDLE
-  - The print() function
-  - The input() function
-  - Comments
-  - Case-sensitivity
+- [Invent With Python: Writing Programs](http://inventwithpython.com/chapter3.html): This chapter covers flow of execution, strings, data types, saving/running programs in IDLE (we use Wing IDE), the `print()` and `input()` functions, comments and variable naming. 
+- [Invent With Python: Guess the Number](http://inventwithpython.com/chapter4.html): This covers some topics from next week as well but goes into more detail about modules/imports and then covers conditionals, blocks, comparisons, type conversion and the random functions. The while statement will be covered next week and break statement will be covered later in the course. 
+
 
 
 ### Week 2
