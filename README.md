@@ -40,8 +40,8 @@ The first week will cover everything needed to get started programming in Python
   - [Dice Game](docs/walkthroughs/dice_game/dice_game.rst): We'll create a dice game. 
 - Lab
   - [Hello World](docs/labs/week_1/hello_world.rst) **[50 Points]**
-  - Penny Drop Calculator **[50 Points]**
-  - Math Game **[100 Points]**
+  - [Penny Drop Calculator](docs/labs/week_1/penny_drop_calculator.rst) **[50 Points]**
+  - [Math Game](docs/labs/week_1/math_game.rst) **[100 Points]** 
 
 #### Additional Resources
 

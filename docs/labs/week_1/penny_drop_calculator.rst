@@ -56,6 +56,12 @@ After you ask the user for input, you'll need to get it and save the number they
 
 Also remember, since were asking the user for a number we'll need to tell Python that the user entered a number and not a string. We'll need to convert the height using the line of code :code:`height = int(height)`. That takes the string height and makes it into an integer and then saves it back to the same variable location. 
 
+**Hint:** To print a blank link, you can just use a print statement with a blank string 
+
+::
+
+    print("")
+
 
 Calculate the Fall Time
 -----------------------
@@ -114,3 +120,4 @@ Rubric
 Extra Credit:
 
 - **[5 Points]** Output the speed the object is moving at impact
+
