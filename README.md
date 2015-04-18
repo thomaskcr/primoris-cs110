@@ -45,9 +45,11 @@ The first week will cover everything needed to get started programming in Python
     - [YouTube Video](http://youtu.be/OgX6GJMW7XM) The Chrome screen seems to be capturing wrong. Luckily I don't spend much time there in the video. The page I have opened is the Dice Game link above. I ended up adding an extra feature in the video.
     - [GitHub Repo for Dice Game](https://github.com/thomaskcr/python-dice-game)
 - Lab
-  - [Hello World](docs/labs/week_1/hello_world.rst) **[50 Points]**
+  - [Hello World](docs/labs/week_1/hello_world.rst) **[50 Points]** 
   - [Penny Drop Calculator](docs/labs/week_1/penny_drop_calculator.rst) **[50 Points]**
   - [Math Game](docs/labs/week_1/math_game.rst) **[100 Points]** 
+- Scratch Lab (Only due for Scratch Group)
+  - [Hello World](docs/labs/week_1/scratch_dice_game.rst) **[200 Points]**
 
 #### Additional Resources
 
