@@ -65,7 +65,7 @@ Save your application to the GitHub repository that you just cloned.
 Create a Commit and Push Your Project
 -------------------------------------
 
-When you save a new file to the folder for your GitHub repository, an "Uncommited changes" panel should show up in the GitHub application. If you click the down arrow in this panel it will show your new file and changes. It will also open a form where you can add your commit message and create your commit. 
+When you save a new file to the folder for your GitHub repository, an "Uncommited changes" panel will show up in the GitHub application. If you click the down arrow in this panel it will show your new file and changes. It will also open a form where you can add your commit message and create your commit. 
 
 .. image:: commit-ready.png
     :align: center
