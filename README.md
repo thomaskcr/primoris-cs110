@@ -85,7 +85,7 @@ The first week will cover everything needed to get started programming in Python
   - Reading Files
 - Lab
   - [Hello World: Introduction to GitHub](docs/labs/week_1/hello_world.rst) **[50 Points]** 
-  - [Quiz Game](docs/labs/week_2/quiz.rst) **[100 Points]** 
+  - [Quiz Game](docs/labs/week_2/quiz_game_lab.rst) **[100 Points]** 
   - Guessing Game
 
 
