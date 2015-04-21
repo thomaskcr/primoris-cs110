@@ -45,11 +45,10 @@ The first week will cover everything needed to get started programming in Python
     - [YouTube Video](http://youtu.be/OgX6GJMW7XM) The Chrome screen seems to be capturing wrong. Luckily I don't spend much time there in the video. The page I have opened is the Dice Game link above. I ended up adding an extra feature in the video.
     - [GitHub Repo for Dice Game](https://github.com/thomaskcr/python-dice-game)
 - Lab
-  - [Hello World](docs/labs/week_1/hello_world.rst) **[50 Points]** 
   - [Penny Drop Calculator](docs/labs/week_1/penny_drop_calculator.rst) **[50 Points]**
   - [Math Game](docs/labs/week_1/math_game.rst) **[100 Points]** 
 - Scratch Lab (Only due for Scratch Group)
-  - [Hello World](docs/labs/week_1/scratch_dice_game.rst) **[200 Points]**
+  - [Scratch Dice Game](docs/labs/week_1/scratch_dice_game.rst) **[200 Points]**
 
 #### Additional Resources
 
@@ -62,22 +61,38 @@ The first week will cover everything needed to get started programming in Python
 
 ### Week 2
 
-#### Outline
+#### 2:45 Class
+
+- Lecture Topics
+  - [Getting Started](docs/lecture_notes/introduction/introduction.rst): Quick introduction to programming and python with information on installing the tools we'll need for this course.
+  - [Saved Programs](docs/lecture_notes/saved_programs/saved_programs.rst): We'll go through saving your Python programs to files and running them. 
+  - [Python Language Basics](docs/lecture_notes/language_basics.rst): In this set of notes we'll cover variables, types, operators and getting user input.
+  - [Conditionals](docs/lecture_notes/conditionals/conditionals.rst): In these notes we'll cover the if statement. 
+  - [Random Numbers](docs/lecture_notes/random_numbers.rst): These notes cover generating and using random numbers. 
+- Lab
+  - [Math Game (Python)](docs/labs/week_2/math_game.rst) **[100 Points]** 
+  - [Guessing Game (Scratch)](docs/labs/week_2/guessing_game_scratch.rst) **[100 Points]** 
+
+#### 4:45 Class
 
 - Lecture Topics
   - Loops
   - Lists
   - Reading/Writing Files
-- Walkthroughs
-  - Printing with Loops: Walkthrough of printing different shapes to the command line using nested loops. 
-  - Writing to Files: We'll write code that writes every number you type to a file. 
-  - Reading Files: We'll write code that reads a list of numbers from a file into a list and prints it. 
+- [Cookbook](docs/cookbook/cookbook.rst) Updates:
+  - Loops
+  - Writing to Files
+  - Reading Files
 - Lab
-  - Quiz Game
+  - [Hello World: Introduction to GitHub](docs/labs/week_1/hello_world.rst) **[50 Points]** 
+  - [Quiz Game](docs/labs/week_2/quiz.rst) **[100 Points]** 
   - Guessing Game
+
+
 
 #### Additional Resources
 
+- [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf) 
 
 ### Week 3
 
