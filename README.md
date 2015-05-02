@@ -98,18 +98,9 @@ The first week will cover everything needed to get started programming in Python
 
 #### Outline
 
-- Lecture Topics
+- [Walkthrough and Lab](section_1/week_3/index.rst)
   - Pygame Basics
-- Walkthroughs
-  - Drawing Shapes: We'll draw some shapes in Pygame. 
-  - Moving Shapes: We'll move our shapes around the screen.
-  - Finding the Mouse: Determine where a mouse click happened. 
-- Lab
-  - Hangman
-
-
-#### Additional Resources
-
+  - Cannon Game
 
 ### Week 4
 

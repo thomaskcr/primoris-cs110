@@ -1,0 +1,14 @@
+\begin{theindex}
+\def\bigletter#1{{\Large\sffamily#1}\nopagebreak\vspace{1mm}}
+
+  \bigletter M
+  \item math.cos() (built-in function), \hyperpage{18}
+  \item math.sin() (built-in function), \hyperpage{17}
+
+  \indexspace
+  \bigletter P
+  \item pygame.draw.circle() (built-in function), \hyperpage{9}
+  \item pygame.draw.line() (built-in function), \hyperpage{9}
+  \item pygame.draw.rect() (built-in function), \hyperpage{9}
+
+\end{theindex}
