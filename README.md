@@ -101,6 +101,8 @@ The first week will cover everything needed to get started programming in Python
 - [Walkthrough and Lab](section_1/week_3/index.rst)
   - Pygame Basics
   - Cannon Game
+- Resources
+  - [Physics Notes on Trajectories](http://www.physicsclassroom.com/Class/vectors/u3l2f.cfm)
 
 ### Week 4
 
