@@ -120,6 +120,10 @@ The first week will cover everything needed to get started programming in Python
 
 #### Additional Resources
 
+- [Importing in Python](https://docs.python.org/3/reference/import.html)
+- [Classes and Modules](http://learnpythonthehardway.org/book/ex40.html)
+- [Unit Testing](https://docs.python.org/3/library/unittest.html)
+
 ### Week 5
 
 #### Outline
