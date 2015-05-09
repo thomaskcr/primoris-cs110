@@ -109,13 +109,13 @@ The first week will cover everything needed to get started programming in Python
 #### Outline
 
 - Lecture Topics
-  - Sprites
-- Walkthroughs
-  - Controlling an Object with the Keyboard
-  - Collision Detection
+  - Unit testing
+  - Images
+  - Computer players
+- Walkthrough
+  - [Game Graphics and Motion](section_1/week_4/walkthrough.rst)
 - Lab
-  - Racing Game
-
+  - [Connect Four and AI](section_1/week_4/lab.rst)
 
 
 #### Additional Resources
