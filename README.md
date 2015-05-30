@@ -126,48 +126,50 @@ The first week will cover everything needed to get started programming in Python
 
 ### Week 5
 
-#### Outline
 
-- Lecture Topics
-  - Writing Functions
-  - Dictionaries
-  - Card Games
-- Walkthroughs
-  - Creating a Shuffle Deck Function
-  - Taking Cards from a Deck
-- Lab
-  - Blackjack
+For this weeks walkthrough we'll be starting from a reference point and building features into our game. Here is an outline of the rules/gameplay of our game:
 
+- Each level lasts for 30 seconds
+- The number of "koopas" trying to get you is the current level number
+- If you touch a koopa you die
+- You start with three lives
 
-#### Additional Resources
+- Tracking and rendering remaining lives
+  - Initalization
+  - Ending game on loss
+  - Show remaining lives
+
+- Adding Koopas
+  - Generating ternaround points
+  - Showing Koopas
+
+- Copy the code found [here](section_1/week_5/mario.py) into a file named `mario.py` in your folder
+- Download the following images into the same folder
+  - [mario.png](section_1/week_5/mario.png) 
+  - [mario_background.jpg](section_1/week_5/mario_background.jpg) 
+  - [koopa.png](section_1/week_5/koopa.png) 
+
 
 ### Week 6
 
-#### Outline
+Thanks to a suggestion from Thomas Mascoli, this week we will built a math game in class. Math problems are randomly generated and then fall. Players lose a point if a math problem reaches the bottom of the screen before they get it correct. If they get it correct before it reaches the bottom they get a point. 
 
-- Lecture Topics
-  - Physics: Reflections
-- Walkthroughs
-  - Reflections: Bouncing lasers off a mirror. 
-  - Local Leaderboard: We'll create and display a high score list.
-- Lab
-  - Pong
-
-#### Additional Resources
+- [Code listing from class](section_1/week_6/math_game.py)
 
 ### Week 7
 
-#### Outline
+This week we will be animating mario, including making him appear to run rather than glide and face the proper direction when moving. We will also be adding a block/coin collection aspect to the game and animating the coins when collected. 
 
-- Lecture Topics
-  - Physics: Gravity
-- Walkthroughs
-  - Jumping: Make a character jump in the air. We'll explore the parameters associated with gravity that determine how high your character can jump. 
-  - Jumping Forward: We'll use momentum to allow our character to jump forward.
-- Lab
-  - Platformer
+- Download the following images into the same folder
+  - [mario-1.png](https://github.com/thomaskcr/primoris-cs110/raw/development/section_1/week_7/mario-1.png) 
+  - [mario-2.png](https://github.com/thomaskcr/primoris-cs110/raw/development/section_1/week_7/mario-2.png) 
+  - [mario_background.jpg](https://github.com/thomaskcr/primoris-cs110/raw/development/section_1/week_7/mario_background.jpg) 
+  - [koopa.png](https://github.com/thomaskcr/primoris-cs110/raw/development/section_1/week_7/koopa.png) 
+  - [block.png](https://github.com/thomaskcr/primoris-cs110/raw/development/section_1/week_7/block.png) 
+  - [coin.png](https://github.com/thomaskcr/primoris-cs110/raw/development/section_1/week_7/coin.png) 
 
-#### Additional Resources
+- Copy this code listing, this will be our starting point this week
+  - [mario_template.py](section_1/week_7/mario_template.py)
 
 
 ### Week 8
