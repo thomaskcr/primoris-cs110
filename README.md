@@ -171,15 +171,8 @@ This week we will be animating mario, including making him appear to run rather 
 
 ### Week 8
 
-#### Outline
-
-- Review
-- Lab
-  - Space Invaders
-  
-
-#### Additional Resources
-
+- Copy this code listing, this will be our starting point this week
+  - [template.py](section_1/week_8/template.py)
 
 
 ## General Resources
